@@ -10,6 +10,7 @@ import org.springframework.web.client.RestTemplate;
 
 import telran.converter.dto.CurrencyRates;
 
+// test
 public class Converter {
 
 	protected static final String LATEST = "latest";
